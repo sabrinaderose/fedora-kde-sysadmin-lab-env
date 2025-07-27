@@ -25,8 +25,8 @@ To build a clean, customizable Fedora KDE environment optimized for system admin
 
 ### Software Environment
 
-- **Operating System:** Fedora 40  
-- **Kernel:** 6.x (default with Fedora 40)  
+- **Operating System:** Fedora 42  
+- **Kernel:** 6.x (default with Fedora 42)  
 - **Desktop Environment:** KDE Plasma 6  
 - **Display Manager:** SDDM  
 - **Package Manager:** `dnf`, `flatpak`
@@ -37,7 +37,7 @@ To build a clean, customizable Fedora KDE environment optimized for system admin
 
 ### Phase 1: Preparation
 
-- Fedora 40 KDE installed as base environment.
+- Fedora 42 KDE installed as base environment.
 - Display connected: primary via DP (landscape), secondary via HDMI (rotated to portrait).
 - Verified output via `xrandr`.
 
@@ -94,13 +94,13 @@ To build a clean, customizable Fedora KDE environment optimized for system admin
 
 ## Final Outcome
 
-- Functional Fedora 40 KDE Plasma sysadmin desktop configured and themed  
+- Functional Fedora 42 KDE Plasma sysadmin desktop configured and themed  
 - Productivity tools and layouts installed  
 - Finalized for transition to SSH hardening with Raspberry Pi (see repo below)
 
 ---
 
-## Screenshot Gallery
+## Screenshot Gallery (WIP)
 
 - `finallayout.png`: Final desktop with bottom taskbar and top adaptive panel  
 - Display corruption from SDDM/Xsetup: (refer to earlier captured image in documentation)  
