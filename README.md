@@ -120,7 +120,7 @@ To build a clean, customizable Fedora KDE environment optimized for system admin
 
 **S:** Needed a reliable and clean Fedora KDE environment for system admin home lab testing.  
 **T:** Configure dual-display setup with rotation, KDE layouts, and essential productivity tooling.  
-**A:** Installed and tested Fedora 40 KDE, handled display issues through system scripting, then migrated to KDE layout management.  
+**A:** Installed and tested Fedora 42 KDE, handled display issues through system scripting, then migrated to KDE layout management.  
 **R:** Finalized a stable sysadmin lab environment, documented for reproducibility and linked to future Raspberry Pi SSH hardening work.
 
 ---
