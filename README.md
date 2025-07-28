@@ -100,15 +100,6 @@ To build a clean, customizable Fedora KDE environment optimized for system admin
 
 ---
 
-## Screenshot Gallery (WIP)
-
-- `finallayout.png`: Final desktop with bottom taskbar and top adaptive panel  
-- Display corruption from SDDM/Xsetup: (refer to earlier captured image in documentation)  
-- KDE layout arrangement panel screenshot (saved as `displaylayoutsettings`)  
-- KRunner + Kate + Yakuake usage: [captured but not included here]
-
----
-
 ## Key Files and Scripts
 
 - `displaylayoutsettings` – KDE Plasma saved monitor layout
